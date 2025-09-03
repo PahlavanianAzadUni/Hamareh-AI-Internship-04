@@ -25,14 +25,14 @@
 
 | موضوع | بازه مطالعه | لینک |
 |-------|--------------|------|
-| مهندسی هوش مصنوعی با ابزارهای ابری | ۴ هفته | [AI Engineering with Microsoft Azure](https://learn.microsoft.com/en-us/training/paths/build-ai-solutions-with-azure-ml/) |
+| ساخت ایجنت‌های هوش مصنوعی برای مبتدیان | ۴ هفته | [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) |
 
 ---
 
 ### 📝 مقاله کلیدی:
 
-- **Google Research: Pathways Language Model (PaLM)**
-🔗 [مطالعه مقاله](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
+- **مهندسی پرامپت (Prompt Engineering)**
+🔗 [مطالعه مقاله](https://archive.org/details/promptengineering_202401)
 
 > پیشنهاد می‌شود این مقاله را به دقت مطالعه کرده و تحلیل شخصی خود را برای جلسه تیمی آماده نمایید.
 
